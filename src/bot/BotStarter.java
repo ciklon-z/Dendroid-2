@@ -16,7 +16,7 @@
 //    file that was distributed with this source code.
 
 package bot;
-
+ 
 import field.Field;
 import field.ShapeType;
 import java.util.ArrayList;
@@ -36,7 +36,7 @@ import moves.MoveType;
  * 
  * @author Jim van Eeden <jim@starapple.nl>
  */
-
+ 
 public class BotStarter {
 
 	public BotStarter() {}
